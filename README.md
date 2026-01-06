@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Olayinka Akanji
+# Hi there 👋, I'm Olayinka Akan
 
 ## 👨‍💻 About Me
 I am a **Software Engineer specializing in AI/ML**, a **Backend Developer**, and an **Academic Researcher**.  
