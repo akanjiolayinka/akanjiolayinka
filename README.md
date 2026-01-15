@@ -1,69 +1,253 @@
-# Hi there 👋, I'm Olayinka Akanji
+<h1 align="center">Hi there 👋, I'm Olayinka Akanji</h1>
+<h3 align="center">AI & Backend Engineer · Researcher · Builder</h3>
+
+<p align="center">
+  <a href="https://x.com/OLAYINKA_WEB3">
+    <img src="https://img.shields.io/badge/Twitter_/_X-@OLAYINKA__WEB3-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/olayinka-akanji-a9262a355">
+    <img src="https://img.shields.io/badge/LinkedIn-Olayinka%20Akanji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/akanjiolayinka">
+    <img src="https://img.shields.io/badge/GitHub-akanjiolayinka-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Olayinka-Akanji-2">
+    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ## 👨‍💻 About Me
-I am a **Software Engineer specializing in AI/ML**, a **Backend Developer**, and an **Academic Researcher**.  
-I enjoy building intelligent systems, scalable backend architectures, and research-driven solutions that solve real-world problems.
 
-I’m deeply interested in:
-- Machine Learning & Artificial Intelligence
-- Backend Engineering & System Design
-- Research, experimentation, and technical writing
-- Building impactful, production-ready software
+I am a software engineer who enjoys working where artificial intelligence, backend engineering and research meet.  
+I like taking ideas from notes and Figma boards into working systems that people can actually use, not just classroom demos.
 
----
+I am currently:
 
-## 🛠️ Tech Stack
+- Building AI and ML projects that focus on practical use cases  
+- Designing backend services that are simple to reason about and easy to extend  
+- Doing academic research where computing supports real world decisions in areas like water, health and development  
+- Writing and sharing what I learn so that other people can move faster
 
-**Languages**
-- Python
-- JavaScript
-- C
-
-**AI / ML**
-- Machine Learning
-- Data Analysis
-- Model Development & Evaluation
-
-**Backend**
-- Node.js
-- RESTful APIs
-- Authentication & Authorization
-- Database Design
-
-**Databases**
-- PostgreSQL
-- MongoDB
-- SQL
-
-**Tools & Platforms**
-- Git & GitHub
-- Linux
-- Docker (basic)
-- Cloud Platforms (learning & experimentation)
+Outside code I enjoy teaching, community work and collaborating with other builders.
 
 ---
 
-## 📌 What I’m Working On
-- AI/ML projects focused on practical applications  
-- Backend systems with clean architecture and scalability in mind  
-- Academic and technical research in computing-related fields  
+## 🛠 Technical Skills
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+### AI and Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+- Building end to end ML workflows: data cleaning, feature engineering, model training and evaluation  
+- Working with tabular data, basic NLP and simple computer vision tasks  
+- Experiment tracking and model comparison
+
+### Backend and APIs
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-API-02569B?style=for-the-badge" />
+</p>
+
+- Building RESTful APIs and backend services  
+- Authentication and authorization  
+- Clean folder and module structure for maintainable code  
+- Basic system design, logging and monitoring
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+- Relational database design and SQL queries  
+- Document based data modelling with MongoDB  
+- Writing safe and efficient queries for production like workloads
+
+### Tools and Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+- Version control with Git and GitHub  
+- Docker for containerizing applications  
+- Linux for development and deployment  
+- Working with cloud platforms for testing and hosting
+
+---
+
+## 🌍 Domains
+
+- 🤖 Artificial Intelligence and Machine Learning  
+  Turning data into useful models that solve a clear problem.
+
+- 🖥 Backend Engineering and APIs  
+  Designing and implementing server side logic, routes and database layers.
+
+- 📊 Data and Applied Research  
+  Using computing and statistics to support real decisions in areas like groundwater quality, health and development.
+
+- ✍️ Technical Writing and Education  
+  Explaining ideas in simple language so that non experts can understand and use them.
+
+---
+
+## 🤝 Soft Skills
+
+- Teamwork and collaboration  
+- Clear communication with both technical and non technical people  
+- Leadership and project ownership  
+- Community building and mentoring  
+- Ability to learn new tools quickly and adapt
+
+---
+
+## ⭐ Core Values
+
+- Impact Over Hype - I care more about real user outcomes than fancy buzzwords.  
+- Local Context Matters - I like technology that understands Nigerian and African realities.  
+- Open Collaboration - I enjoy sharing knowledge and working with people who want to build together.  
+- Continuous Learning - Every project is another chance to get better at thinking, coding and documenting.  
+- Clarity Over Complexity - Simple and readable code beats clever but confusing solutions.
+
+---
+
+## 🔭 What I Am Working On
+
+- AI and ML projects that focus on real world applications rather than only benchmark scores  
+- Backend systems with clean architecture, clear boundaries and solid database design  
+- Academic and technical research in computing related fields  
+- Articles, threads and tutorials that document my learning journey
+
+---
+
+## 🏗 Featured Projects
+
+### 🩺 WeCare AI
+
+An AI powered support platform that helps users reflect, track patterns and access helpful resources around their wellbeing.  
+_Update this description to match your exact project behaviour._
+
+- Tech Stack: Python, FastAPI or Node.js, Machine Learning, Database (PostgreSQL or MongoDB)  
+- What It Does:  
+  - Collects and processes user input in a safe and structured way  
+  - Uses models to generate suggestions or insights  
+  - Stores history so users can see progress over time  
+- Links:  
+  - Repo: [add GitHub link here]  
+  - Demo: [add live demo or video link here]
+
+---
+
+### ♻️ SnapRecycle
+
+A project that encourages proper waste handling and recycling with the help of technology.  
+For example this can classify waste types, connect users to recycling points or log recycling actions.
+
+- Tech Stack: Python, Machine Learning or Computer Vision, REST API, PostgreSQL or MongoDB, basic frontend or integration  
+- What It Does:  
+  - Processes images or data related to waste and recycling  
+  - Gives feedback or rewards that promote good habits  
+  - Shows how AI can help environment and sustainability work in Nigerian communities  
+- Links:  
+  - Repo: [add GitHub link here]  
+  - Demo: [add live demo or video link here]
+
+---
+
+### 📄 ResumeXpert
+
+An AI powered resume assistant that reviews CVs and gives targeted suggestions.
+
+- Tech Stack: Python or Node.js, NLP libraries or API models, REST API, simple web interface or CLI  
+- What It Does:  
+  - Reads a resume and extracts key information  
+  - Checks structure, clarity and keyword coverage for specific roles  
+  - Generates practical suggestions that users can apply immediately  
+- Links:  
+  - Repo: [add GitHub link here]  
+  - Demo: [add live demo or video link here]
+
+---
+
+### 📈 30 Days of Training Models
+
+A dedicated 30 day journey where I trained a new model or tried a new dataset every single day.
+
+- Tech Stack: Python, scikit-learn, PyTorch, TensorFlow, Jupyter notebooks  
+- What It Includes:  
+  - Daily experiments on classification, regression, basic NLP or computer vision  
+  - Notes on what worked, what failed and why  
+  - Reusable code patterns for preprocessing, training and evaluation  
+- Links:  
+  - Repo or folder: [add GitHub link here]  
+  - Write up or summary: [add Medium or blog link here]
+
+---
+
+## 📚 Research and Publications
+
+- Groundwater Physico Chemical Properties and Suitability for Domestic and Irrigation Use in Oke Ogun, Oyo State  
+  Research project that assesses groundwater quality and its impact on households and agriculture.  
+  It combines field data, laboratory analysis and basic geospatial techniques.
+
+More work and future projects are available on my  
+👉 ResearchGate profile: [Olayinka Akanji](https://www.researchgate.net/profile/Olayinka-Akanji-2)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akanjiolayinka&show_icons=true&theme=default)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=akanjiolayinka&show_icons=true&include_all_commits=true&count_private=true"
+    alt="Olayinka's GitHub stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanjiolayinka&layout=compact&langs_count=8&card_width=320"
+    alt="Top languages"
+    height="165"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akanjiolayinka&layout=compact)
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=akanjiolayinka"
+    alt="GitHub streak"
+  />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 📬 Let Us Connect
 
-✨ **Twitter / X:** [@OLAYINKA_WEB3](https://x.com/OLAYINKA_WEB3)  
-🔗 **LinkedIn:** [Olayinka Akanji](https://www.linkedin.com/in/olayinka-akanji-a9262a355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-🐙 **GitHub:** [akanjiolayinka](https://github.com/akanjiolayinka)
+I like meeting builders, researchers and founders working on interesting problems.
 
----
+- 🐙 GitHub: [@akanjiolayinka](https://github.com/akanjiolayinka)  
+- 🔗 LinkedIn: [Olayinka Akanji](https://www.linkedin.com/in/olayinka-akanji-a9262a355)  
+- ✨ Twitter / X: [@OLAYINKA_WEB3](https://x.com/OLAYINKA_WEB3)  
+- 📧 Email: [add your preferred email here]
 
-⭐️ *Always learning. Always building.*
+> Always learning. Always building.
