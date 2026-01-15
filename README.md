@@ -248,6 +248,6 @@ I like meeting builders, researchers and founders working on interesting problem
 - 🐙 GitHub: [@akanjiolayinka](https://github.com/akanjiolayinka)  
 - 🔗 LinkedIn: [Olayinka Akanji](https://www.linkedin.com/in/olayinka-akanji-a9262a355)  
 - ✨ Twitter / X: [@OLAYINKA_WEB3](https://x.com/OLAYINKA_WEB3)  
-- 📧 Email: [add your preferred email here]
+- 📧 Email: akanjiolayinka01@gmail.com
 
 > Always learning. Always building.
