@@ -27,7 +27,7 @@ I am currently:
 
 - Building AI and ML projects that focus on practical use cases  
 - Designing backend services that are simple to reason about and easy to extend  
-- Doing academic research where computing supports real world decisions in areas like water, health and development  
+- Doing academic research where computing supports real world decisions  
 - Writing and sharing what I learn so that other people can move faster
 
 Outside code I enjoy teaching, community work and collaborating with other builders.
@@ -41,30 +41,37 @@ Outside code I enjoy teaching, community work and collaborating with other build
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 ### AI and Machine Learning
 
 <p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 - Building end to end ML workflows: data cleaning, feature engineering, model training and evaluation  
 - Working with tabular data, basic NLP and simple computer vision tasks  
+- Using libraries like NumPy, pandas, scikit-learn, PyTorch, TensorFlow, OpenCV and Streamlit  
 - Experiment tracking and model comparison
 
 ### Backend and APIs
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/REST-API-02569B?style=for-the-badge" />
 </p>
 
-- Building RESTful APIs and backend services  
+- Building RESTful APIs and backend services with Node.js, Express.js and FastAPI  
 - Authentication and authorization  
 - Clean folder and module structure for maintainable code  
 - Basic system design, logging and monitoring
@@ -73,12 +80,14 @@ Outside code I enjoy teaching, community work and collaborating with other build
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-- Relational database design and SQL queries  
+- Relational database design and SQL queries with PostgreSQL and MySQL  
 - Document based data modelling with MongoDB  
-- Writing safe and efficient queries for production like workloads
+- Using Supabase for authentication, database and quick prototypes
 
 ### Tools and Platforms
 
@@ -106,7 +115,7 @@ Outside code I enjoy teaching, community work and collaborating with other build
   Designing and implementing server side logic, routes and database layers.
 
 - 📊 Data and Applied Research  
-  Using computing and statistics to support real decisions in areas like groundwater quality, health and development.
+  Using computing and statistics to understand real world behavior and support decisions.
 
 - ✍️ Technical Writing and Education  
   Explaining ideas in simple language so that non experts can understand and use them.
@@ -149,7 +158,7 @@ Outside code I enjoy teaching, community work and collaborating with other build
 An AI powered support platform that helps users reflect, track patterns and access helpful resources around their wellbeing.  
 _Update this description to match your exact project behaviour._
 
-- Tech Stack: Python, FastAPI or Node.js, Machine Learning, Database (PostgreSQL or MongoDB)  
+- Tech Stack: Python, FastAPI or Node.js, Machine Learning, PostgreSQL or MongoDB  
 - What It Does:  
   - Collects and processes user input in a safe and structured way  
   - Uses models to generate suggestions or insights  
@@ -195,7 +204,7 @@ An AI powered resume assistant that reviews CVs and gives targeted suggestions.
 
 A dedicated 30 day journey where I trained a new model or tried a new dataset every single day.
 
-- Tech Stack: Python, scikit-learn, PyTorch, TensorFlow, Jupyter notebooks  
+- Tech Stack: Python, NumPy, pandas, scikit-learn, PyTorch, TensorFlow, OpenCV, Streamlit, Jupyter notebooks  
 - What It Includes:  
   - Daily experiments on classification, regression, basic NLP or computer vision  
   - Notes on what worked, what failed and why  
@@ -208,9 +217,9 @@ A dedicated 30 day journey where I trained a new model or tried a new dataset ev
 
 ## 📚 Research and Publications
 
-- Groundwater Physico Chemical Properties and Suitability for Domestic and Irrigation Use in Oke Ogun, Oyo State  
-  Research project that assesses groundwater quality and its impact on households and agriculture.  
-  It combines field data, laboratory analysis and basic geospatial techniques.
+- Sentiment Analysis on Social Media Using Machine Learning  
+  Research project that explores how people express opinions on social platforms and how those opinions can be classified automatically.  
+  It covers dataset collection, preprocessing, feature extraction, model training and evaluation, plus insights from the results.
 
 More work and future projects are available on my  
 👉 ResearchGate profile: [Olayinka Akanji](https://www.researchgate.net/profile/Olayinka-Akanji-2)
@@ -248,6 +257,6 @@ I like meeting builders, researchers and founders working on interesting problem
 - 🐙 GitHub: [@akanjiolayinka](https://github.com/akanjiolayinka)  
 - 🔗 LinkedIn: [Olayinka Akanji](https://www.linkedin.com/in/olayinka-akanji-a9262a355)  
 - ✨ Twitter / X: [@OLAYINKA_WEB3](https://x.com/OLAYINKA_WEB3)  
-- 📧 Email: akanjiolayinka01@gmail.com
+- 📧 Email: [add your preferred email here]
 
 > Always learning. Always building.
