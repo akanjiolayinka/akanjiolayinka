@@ -43,6 +43,7 @@ Outside code I enjoy teaching, community work and collaborating with other build
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
 ### AI and Machine Learning
@@ -212,6 +213,32 @@ A dedicated 30 day journey where I trained a new model or tried a new dataset ev
 - Links:  
   - Repo or folder: [add GitHub link here]  
   - Write up or summary: [add Medium or blog link here]
+
+---
+
+## 🎓 Certifications and Courses
+
+All courses completed on DataCamp:
+
+- Associate AI Engineer for Developers  
+  _DataCamp_ · [View Certificate](YOUR_LINK_HERE)
+
+- Machine Learning Fundamentals in Python  
+  _DataCamp_ · [View Certificate](YOUR_LINK_HERE)
+
+- AI Fundamentals  
+  _DataCamp_ · [View Certificate](YOUR_LINK_HERE)
+
+- Associate AI Engineer for Data Science  
+  _DataCamp_ · [View Certificate](YOUR_LINK_HERE)
+
+- Understanding Data Topics  
+  _DataCamp_ · [View Certificate](YOUR_LINK_HERE)
+
+- Developing AI Applications  
+  _DataCamp_ · [View Certificate](YOUR_LINK_HERE)
+
+> Replace each YOUR_LINK_HERE with the actual URL of your certificate page on DataCamp.
 
 ---
 
