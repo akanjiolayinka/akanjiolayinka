@@ -165,7 +165,7 @@ _Update this description to match your exact project behaviour._
   - Uses models to generate suggestions or insights  
   - Stores history so users can see progress over time  
 - Links:  
-  - Repo: [add GitHub link here]  
+  - Repo: [WeCare-AI](https://github.com/akanjiolayinka/WeCare-AI)  
   - Demo: [add live demo or video link here]
 
 ---
@@ -211,7 +211,7 @@ A dedicated 30 day journey where I trained a new model or tried a new dataset ev
   - Notes on what worked, what failed and why  
   - Reusable code patterns for preprocessing, training and evaluation  
 - Links:  
-  - Repo or folder: [add GitHub link here]  
+  - Repo or folder: [30-Days-Of-Datasets](https://github.com/akanjiolayinka/30-Days-Of-Datasets)  
   - Write up or summary: [add Medium or blog link here]
 
 ---
@@ -221,7 +221,7 @@ A dedicated 30 day journey where I trained a new model or tried a new dataset ev
 All courses completed on DataCamp:
 
 - Associate AI Engineer for Developers  
-  _DataCamp_ · [View Certificate](YOUR_LINK_HERE)
+  _DataCamp_ · [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/6caec0f39e163cc5cd7b1b42b17aa0a9cbf0a528)
 
 - Machine Learning Fundamentals in Python  
   _DataCamp_ · [View Certificate](YOUR_LINK_HERE)
@@ -238,7 +238,6 @@ All courses completed on DataCamp:
 - Developing AI Applications  
   _DataCamp_ · [View Certificate](YOUR_LINK_HERE)
 
-> Replace each YOUR_LINK_HERE with the actual URL of your certificate page on DataCamp.
 
 ---
 
@@ -284,6 +283,6 @@ I like meeting builders, researchers and founders working on interesting problem
 - 🐙 GitHub: [@akanjiolayinka](https://github.com/akanjiolayinka)  
 - 🔗 LinkedIn: [Olayinka Akanji](https://www.linkedin.com/in/olayinka-akanji-a9262a355)  
 - ✨ Twitter / X: [@OLAYINKA_WEB3](https://x.com/OLAYINKA_WEB3)  
-- 📧 Email: [add your preferred email here]
+- 📧 Email: akanjiolayinka01@gmail.com
 
 > Always learning. Always building.
