@@ -170,7 +170,7 @@ _Update this description to match your exact project behaviour._
 
 ---
 
-### ♻️ SnapRecycle
+### 🌱♻️ ReGen Economy
 
 A project that encourages proper waste handling and recycling with the help of technology.  
 For example this can classify waste types, connect users to recycling points or log recycling actions.
@@ -181,7 +181,7 @@ For example this can classify waste types, connect users to recycling points or 
   - Gives feedback or rewards that promote good habits  
   - Shows how AI can help environment and sustainability work in Nigerian communities  
 - Links:  
-  - Repo: [add GitHub link here]  
+  - Repo: [RGE](https://github.com/TADSTech/RGE)  
   - Demo: [add live demo or video link here]
 
 ---
