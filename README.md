@@ -186,7 +186,25 @@ For example this can classify waste types, connect users to recycling points or 
 
 ---
 
-### 📄 ResumeXpert
+### �️ DataVault
+
+A secure data vault platform that gives individuals and organizations full control over their sensitive documents through enterprise grade encryption, device bound authentication and complete transparency.
+
+- Tech Stack: Python, FastAPI, React, TypeScript, PostgreSQL, MinIO, Backblaze B2, scikit-learn, WebAuthn, SQLAlchemy  
+- What It Does:  
+  - Encrypts files with AES-256-GCM before storage so only you can access them  
+  - Uses passwordless device bound passkeys for authentication that only work on your registered device  
+  - Tracks every file access with ML powered anomaly detection to catch suspicious behavior  
+  - Manages consent and access permissions with full audit trails  
+  - Stores encrypted documents in S3 compatible storage while keeping encryption keys secure  
+  - Provides complete data sovereignty with transparent access logs and instant revocation  
+- Links:  
+  - Repo: [DataVault](https://github.com/TADSTech/DataVault)  
+  - Demo: [Watch Demo](https://youtu.be/FfEau3kRQPE?si=cK1CSe_lFahb7xdA)
+
+---
+
+### �📄 ResumeXpert
 
 An AI powered resume assistant that reviews CVs and gives targeted suggestions.
 
