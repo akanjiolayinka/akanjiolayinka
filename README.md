@@ -165,8 +165,7 @@ _Update this description to match your exact project behaviour._
   - Uses models to generate suggestions or insights  
   - Stores history so users can see progress over time  
 - Links:  
-  - Repo: [WeCare-AI](https://github.com/akanjiolayinka/WeCare-AI)  
-  - Demo: [add live demo or video link here]
+  - Repo: [WeCare-AI](https://github.com/akanjiolayinka/WeCare-AI)
 
 ---
 
@@ -181,8 +180,7 @@ For example this can classify waste types, connect users to recycling points or 
   - Gives feedback or rewards that promote good habits  
   - Shows how AI can help environment and sustainability work in Nigerian communities  
 - Links:  
-  - Repo: [RGE](https://github.com/TADSTech/RGE)  
-  - Demo: [add live demo or video link here]
+  - Repo: [RGE](https://github.com/TADSTech/RGE)
 
 ---
 
@@ -213,9 +211,7 @@ An AI powered resume assistant that reviews CVs and gives targeted suggestions.
   - Reads a resume and extracts key information  
   - Checks structure, clarity and keyword coverage for specific roles  
   - Generates practical suggestions that users can apply immediately  
-- Links:  
-  - Repo: [add GitHub link here]  
-  - Demo: [add live demo or video link here]
+
 
 ---
 
@@ -229,8 +225,7 @@ A dedicated 30 day journey where I trained a new model or tried a new dataset ev
   - Notes on what worked, what failed and why  
   - Reusable code patterns for preprocessing, training and evaluation  
 - Links:  
-  - Repo or folder: [30-Days-Of-Datasets](https://github.com/akanjiolayinka/30-Days-Of-Datasets)  
-  - Write up or summary: [add Medium or blog link here]
+  - Repo: [30-Days-Of-Datasets](https://github.com/akanjiolayinka/30-Days-Of-Datasets)
 
 ---
 
@@ -242,19 +237,19 @@ All courses completed on DataCamp:
   _DataCamp_ · [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/6caec0f39e163cc5cd7b1b42b17aa0a9cbf0a528)
 
 - Machine Learning Fundamentals in Python  
-  _DataCamp_ · [View Certificate](YOUR_LINK_HERE)
+  _DataCamp_
 
 - AI Fundamentals  
-  _DataCamp_ · [View Certificate](YOUR_LINK_HERE)
+  _DataCamp_
 
 - Associate AI Engineer for Data Science  
-  _DataCamp_ · [View Certificate](YOUR_LINK_HERE)
+  _DataCamp_
 
 - Understanding Data Topics  
-  _DataCamp_ · [View Certificate](YOUR_LINK_HERE)
+  _DataCamp_
 
 - Developing AI Applications  
-  _DataCamp_ · [View Certificate](YOUR_LINK_HERE)
+  _DataCamp_
 
 
 ---
