@@ -200,18 +200,6 @@ A secure data vault platform that gives individuals and organizations full contr
   - Repo: [DataVault](https://github.com/TADSTech/DataVault)  
   - Demo: [Watch Demo](https://youtu.be/FfEau3kRQPE?si=cK1CSe_lFahb7xdA)
 
----
-
-### �📄 ResumeXpert
-
-An AI powered resume assistant that reviews CVs and gives targeted suggestions.
-
-- Tech Stack: Python or Node.js, NLP libraries or API models, REST API, simple web interface or CLI  
-- What It Does:  
-  - Reads a resume and extracts key information  
-  - Checks structure, clarity and keyword coverage for specific roles  
-  - Generates practical suggestions that users can apply immediately  
-
 
 ---
 
