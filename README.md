@@ -11,9 +11,6 @@
   <a href="https://github.com/akanjiolayinka">
     <img src="https://img.shields.io/badge/GitHub-akanjiolayinka-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.researchgate.net/profile/Olayinka-Akanji-2">
-    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -240,18 +237,7 @@ All courses completed on DataCamp:
   _DataCamp_
 
 
----
 
-## 📚 Research and Publications
-
-- Sentiment Analysis on Social Media Using Machine Learning  
-  Research project that explores how people express opinions on social platforms and how those opinions can be classified automatically.  
-  It covers dataset collection, preprocessing, feature extraction, model training and evaluation, plus insights from the results.
-
-More work and future projects are available on my  
-👉 ResearchGate profile: [Olayinka Akanji](https://www.researchgate.net/profile/Olayinka-Akanji-2)
-
----
 
 ## 📊 GitHub Stats
 
