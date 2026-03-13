@@ -171,7 +171,7 @@ An AI powered support platform that helps users reflect, track patterns and acce
 A project that encourages proper waste handling and recycling with the help of technology.  
 For example this can classify waste types, connect users to recycling points or log recycling actions.
 
-- Tech Stack: Python, Machine Learning or Computer Vision, REST API, PostgreSQL or MongoDB, basic frontend or integration  
+- Tech Stack: Python, or Computer Vision, REST API, PostgreSQL or MongoDB, basic frontend or integration  
 - What It Does:  
   - Processes images or data related to waste and recycling  
   - Gives feedback or rewards that promote good habits  
