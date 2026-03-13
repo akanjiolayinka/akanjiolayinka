@@ -154,9 +154,9 @@ Outside code I enjoy teaching, community work and collaborating with other build
 ### 🩺 WeCare AI
 
 An AI powered support platform that helps users reflect, track patterns and access helpful resources around their wellbeing.  
-_Update this description to match your exact project behaviour._
+._
 
-- Tech Stack: Python, FastAPI or Node.js, Machine Learning, PostgreSQL or MongoDB  
+- Tech Stack: Python, FastAPI or Node.js, Machine Learning, PostgreSQL  
 - What It Does:  
   - Collects and processes user input in a safe and structured way  
   - Uses models to generate suggestions or insights  
