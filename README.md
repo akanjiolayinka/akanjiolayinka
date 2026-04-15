@@ -37,6 +37,7 @@ Outside code I enjoy teaching, community work and collaborating with other build
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -65,11 +66,13 @@ Outside code I enjoy teaching, community work and collaborating with other build
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/REST-API-02569B?style=for-the-badge" />
 </p>
 
-- Building RESTful APIs and backend services with Node.js, Express.js and FastAPI  
+- Building RESTful APIs and backend services with Java (Spring Boot), Node.js, Express.js and FastAPI  
 - Authentication and authorization  
 - Clean folder and module structure for maintainable code  
 - Basic system design, logging and monitoring
@@ -154,7 +157,7 @@ Outside code I enjoy teaching, community work and collaborating with other build
 ### 🩺 WeCare AI
 
 An AI powered support platform that helps users reflect, track patterns and access helpful resources around their wellbeing.  
-._
+
 
 - Tech Stack: Python, FastAPI or Node.js, Machine Learning, PostgreSQL  
 - What It Does:  
@@ -163,6 +166,21 @@ An AI powered support platform that helps users reflect, track patterns and acce
   - Stores history so users can see progress over time  
 - Links:  
   - Repo: [WeCare-AI](https://github.com/akanjiolayinka/WeCare-AI)
+
+---
+
+### 🤖 DocuMind AI (RAG Chatbot)
+
+A portfolio-grade Retrieval-Augmented Generation (RAG) chatbot that answers questions grounded in your documents, with a strong focus on backend engineering quality and practical AI system design.
+
+- Tech Stack: Python, FastAPI, PostgreSQL, pgvector, SQLAlchemy, Alembic, OpenAI API, Docker Compose, Pytest  
+- What It Does:  
+  - Ingests documents (PDF/TXT), cleans and chunks text for retrieval  
+  - Generates embeddings and stores vectors in PostgreSQL (pgvector)  
+  - Retrieves relevant context via similarity search and generates grounded answers with citations  
+  - Built with clean service boundaries, typed config, and a production-minded project structure  
+- Links:  
+  - Repo: [Retrieval-Augmented-Generation-RAG-chatbot](https://github.com/akanjiolayinka/Retrieval-Augmented-Generation-RAG-chatbot)
 
 ---
 
@@ -181,7 +199,7 @@ For example this can classify waste types, connect users to recycling points or 
 
 ---
 
-### �️ DataVault
+### 🗄️ DataVault
 
 A secure data vault platform that gives individuals and organizations full control over their sensitive documents through enterprise grade encryption, device bound authentication and complete transparency.
 
